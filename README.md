@@ -1,3 +1,9 @@
+ORIGINAL PACKAGE IS NO LONGER IN MAINTANANCE PLEASE USE THIS PUB LINK TO DOWNLOAD THE LATEST PACKAGE
+[feature_discovery_fork 0.14.2 ](https://pub.dev/packages/feature_discovery_fork)
+
+
+
+
 # feature_discovery
 
 This Flutter package implements Feature Discovery following the [Material Design guidelines](https://material.io/archive/guidelines/growth-communications/feature-discovery.html).  
